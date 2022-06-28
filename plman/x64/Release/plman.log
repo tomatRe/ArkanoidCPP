@@ -1,0 +1,8 @@
+﻿  plman.cpp
+c:\users\angel\source\repos\plman\plman\plman.cpp(271): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 44 functions ( 4.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  plman.vcxproj -> C:\Users\Angel\source\repos\plman\x64\Release\plman.exe
